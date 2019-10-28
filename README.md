@@ -9,3 +9,6 @@ How to display data in a way that doesn't feel like DATA. Hoping to begin design
 
 # Portfolio
 Here's where all my cool stuff wil go!
+
+First Exercise:
+https://app.datawrapper.de/chart/0eFNc/visualize
